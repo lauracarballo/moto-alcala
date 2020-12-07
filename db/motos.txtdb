@@ -1,0 +1,114 @@
+{
+  "1": {
+    "nombre": "YAMAHA XMAX 250",
+    "matriculacion": "2017",
+    "kms": "14.000km",
+    "precio": "3.600€",
+    "file": "uploads/yamaha-xmax.jpg"
+  },
+  "2": {
+    "nombre": "Piaggio X7 EVO 300 IE",
+    "matriculacion": "2014",
+    "kms": "39.000km",
+    "precio": "1.900€",
+    "file": "uploads/piaggio-x7.jpg"
+  },
+  "3": {
+    "nombre": "KYMCO AK550",
+    "matriculacion": "2018",
+    "kms": "25.000km",
+    "precio": "6.800€",
+    "file": "uploads/kymco-ak550.jpg"
+  },
+  "4": {
+    "nombre": "SYM Symphony ST LC ABS",
+    "matriculacion": "2019",
+    "kms": "2.900km",
+    "precio": "2.000€",
+    "file": "uploads/sym-symphony.jpg"
+  },
+  "5": {
+    "nombre": "KYMCO SUPERDINK 300 ABS",
+    "matriculacion": "2014",
+    "kms": "50.000km",
+    "precio": "2.200€",
+    "file": "uploads/kymco-superdink1.jpg"
+  },
+  "6": {
+    "nombre": "KYMCO SUPERDINK 300 ABS",
+    "matriculacion": "2014",
+    "kms": "52.000km",
+    "precio": "2.200€",
+    "file": "uploads/kymco-superdink2.jpg"
+  },
+  "7": {
+    "nombre": "Kawasaki Z900 ABS",
+    "matriculacion": "2018",
+    "kms": "14.000km",
+    "precio": "6.800€",
+    "file": "uploads/kawasaki-z900.jpg"
+  },
+  "9": {
+    "nombre": "SYM MaxSym 600 I ABS",
+    "matriculacion": "2016",
+    "kms": "50.000km",
+    "precio": "3.100€",
+    "file": "uploads/sym-maxsym.jpg"
+  },
+  "10": {
+    "nombre": "BMW R1200R ABS",
+    "matriculacion": "2007",
+    "kms": "88.000km",
+    "precio": "4.850€",
+    "file": "uploads/bmw-r1200r.jpg"
+  },
+  "11": {
+    "nombre": "PIAGGIONX8 250",
+    "matriculacion": "2006",
+    "kms": "110.000km",
+    "precio": "800€",
+    "file": "uploads/piaggio-nx8.jpg"
+  },
+  "13": {
+    "nombre": "Kymco Grand Dink 125",
+    "matriculacion": "2006",
+    "kms": "29.000km",
+    "precio": "1.000€",
+    "file": "uploads/kymco-grand-dink.jpg"
+  },
+  "14": {
+    "nombre": "Harley Davidson Fat Boy 1HD 1449",
+    "matriculacion": "2002",
+    "kms": "30.000km",
+    "precio": "11.200€",
+    "file": "uploads/harley-davidson-fatboy.jpg"
+  },
+  "16": {
+    "nombre": "KTM 690 DUKE R",
+    "matriculacion": "2011",
+    "kms": "40.000km",
+    "precio": "3.500€",
+    "file": "uploads/ktm-690-duke.jpg"
+  },
+  "17": {
+    "nombre": "VESPA 300 GTS",
+    "matriculacion": "2014",
+    "kms": "15.000km",
+    "precio": "3.100€",
+    "file": "uploads/vespa-300.jpg"
+  },
+  "18": {
+    "nombre": "SYM JOYMAX 300I GTS",
+    "matriculacion": "2013",
+    "kms": "35.000km",
+    "precio": "2.300€",
+    "file": "uploads/sym-joymax.jpg"
+  },
+  "19": {
+    "nombre": "YAMAHA TMAX 530 2016",
+    "matriculacion": "2016",
+    "kms": "30.000km",
+    "precio": "8.100€",
+    "file": "uploads/yamaha-tmax.jpg"
+  }
+}
